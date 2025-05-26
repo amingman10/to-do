@@ -1,2 +1,2 @@
-add a new player
-crazy super awesome workout
+make popcorn
+practice python
